@@ -1,0 +1,655 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns="http://www.w3.org/TR/REC-html40">
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=us-ascii">
+<meta name=ProgId content=Excel.Sheet>
+<meta name=Generator content="Embarcadero Excel Export">
+<style>
+<!--table
+  br
+    {mso-data-placement:same-cell;}
+  .xl29
+    {mso-style-parent:style0;
+    mso-number-format:"m\/d\/yyyy\\ h\:mm\:ss\\ AM\/PM";
+    white-space:normal;}
+  .xl30
+    {mso-style-parent:style0;
+    mso-number-format:"\@";
+    white-space:normal;}
+-->
+</style>
+<!--[if gte mso 9]><xml>
+ <x:ExcelWorkbook>
+  <x:ExcelWorksheets>
+   <x:ExcelWorksheet>
+    <x:Name>Sheet1</x:Name>
+    <x:WorksheetOptions>
+     <x:Selected/>
+    </x:WorksheetOptions>
+   </x:ExcelWorksheet>
+  </x:ExcelWorksheets>
+ </x:ExcelWorkbook>
+</xml><![endif]-->
+</head>
+<body>
+    <table>
+        <tr>
+            <th>DAT_ISS</th>
+            <th>CUS_OFF</th>
+            <th>VOY_NUM</th>
+            <th>HBOL_NUM</th>
+            <th>ENT_NUM</th>
+            <th>STATUS</th>
+            <th>TRN_NUM</th>
+            <th>CURR_TC</th>
+            <th align="right">INSTANCE_ID</th>
+        </tr>
+        <tr>
+            <td class=x129>09/30/2018 12:00:00 AM</td>
+            <td class=xl30>P03<SPAN STYLE='mso-spacerun:yes'>&nbsp;&nbsp;</SPAN></td>
+            <td class=xl30>AAA3579-18</td>
+            <td class=xl30>TPE00507915</td>
+            <td class=xl30>2018P03<SPAN STYLE='mso-spacerun:yes'>&nbsp;&nbsp;</SPAN>T504114</td>
+            <td>[NULL]</td>
+            <td class=xl30>2018P03<SPAN STYLE='mso-spacerun:yes'>&nbsp;&nbsp;</SPAN>T512722</td>
+            <td class=xl30>A05</td>
+            <td align="right">[NULL]</td>
+        </tr>
+        <tr>
+            <td class=x129>09/30/2018 12:00:00 AM</td>
+            <td class=xl30>P03<SPAN STYLE='mso-spacerun:yes'>&nbsp;&nbsp;</SPAN></td>
+            <td class=xl30>CPA8807-18</td>
+            <td class=xl30>NNRBJ009617</td>
+            <td class=xl30>2018P03<SPAN STYLE='mso-spacerun:yes'>&nbsp;&nbsp;</SPAN>T504060</td>
+            <td>[NULL]</td>
+            <td class=xl30>2018P03<SPAN STYLE='mso-spacerun:yes'>&nbsp;&nbsp;</SPAN>T512914</td>
+            <td class=xl30>A05</td>
+            <td align="right">[NULL]</td>
+        </tr>
+        <tr>
+            <td class=x129>09/28/2018 12:00:00 AM</td>
+            <td class=xl30>P03<SPAN STYLE='mso-spacerun:yes'>&nbsp;&nbsp;</SPAN></td>
+            <td class=xl30>CPA8748-18</td>
+            <td class=xl30>605118870142</td>
+            <td class=xl30>2018P03<SPAN STYLE='mso-spacerun:yes'>&nbsp;&nbsp;</SPAN>T500299</td>
+            <td class=xl30>Sent Pending</td>
+            <td class=xl30>2018P03<SPAN STYLE='mso-spacerun:yes'>&nbsp;&nbsp;</SPAN>T509431</td>
+            <td class=xl30>A05</td>
+            <td align="right">[NULL]</td>
+        </tr>
+        <tr>
+            <td class=x129>09/30/2018 12:00:00 AM</td>
+            <td class=xl30>P03<SPAN STYLE='mso-spacerun:yes'>&nbsp;&nbsp;</SPAN></td>
+            <td class=xl30>CPA8811-18</td>
+            <td class=xl30>HKG1997347</td>
+            <td class=xl30>2018P03<SPAN STYLE='mso-spacerun:yes'>&nbsp;&nbsp;</SPAN>T504204</td>
+            <td>[NULL]</td>
+            <td class=xl30>2018P03<SPAN STYLE='mso-spacerun:yes'>&nbsp;&nbsp;</SPAN>T512791</td>
+            <td class=xl30>A05</td>
+            <td align="right">[NULL]</td>
+        </tr>
+        <tr>
+            <td class=x129>09/30/2018 12:00:00 AM</td>
+            <td class=xl30>P03<SPAN STYLE='mso-spacerun:yes'>&nbsp;&nbsp;</SPAN></td>
+            <td class=xl30>CXA1902-18</td>
+            <td class=xl30>UCH01077156</td>
+            <td class=xl30>2018P03<SPAN STYLE='mso-spacerun:yes'>&nbsp;&nbsp;</SPAN>T503724</td>
+            <td>[NULL]</td>
+            <td class=xl30>2018P03<SPAN STYLE='mso-spacerun:yes'>&nbsp;&nbsp;</SPAN>T512815</td>
+            <td class=xl30>A05</td>
+            <td align="right">[NULL]</td>
+        </tr>
+        <tr>
+            <td class=x129>09/30/2018 12:00:00 AM</td>
+            <td class=xl30>P03<SPAN STYLE='mso-spacerun:yes'>&nbsp;&nbsp;</SPAN></td>
+            <td class=xl30>CXA1902-18</td>
+            <td class=xl30>UCH01077053</td>
+            <td class=xl30>2018P03<SPAN STYLE='mso-spacerun:yes'>&nbsp;&nbsp;</SPAN>T503743</td>
+            <td>[NULL]</td>
+            <td class=xl30>2018P03<SPAN STYLE='mso-spacerun:yes'>&nbsp;&nbsp;</SPAN>T512816</td>
+            <td class=xl30>A05</td>
+            <td align="right">[NULL]</td>
+        </tr>
+        <tr>
+            <td class=x129>09/30/2018 12:00:00 AM</td>
+            <td class=xl30>P03<SPAN STYLE='mso-spacerun:yes'>&nbsp;&nbsp;</SPAN></td>
+            <td class=xl30>CXA1902-18</td>
+            <td class=xl30>ULA01239140</td>
+            <td class=xl30>2018P03<SPAN STYLE='mso-spacerun:yes'>&nbsp;&nbsp;</SPAN>T503767</td>
+            <td>[NULL]</td>
+            <td class=xl30>2018P03<SPAN STYLE='mso-spacerun:yes'>&nbsp;&nbsp;</SPAN>T512818</td>
+            <td class=xl30>A05</td>
+            <td align="right">[NULL]</td>
+        </tr>
+        <tr>
+            <td class=x129>09/30/2018 12:00:00 AM</td>
+            <td class=xl30>P03<SPAN STYLE='mso-spacerun:yes'>&nbsp;&nbsp;</SPAN></td>
+            <td class=xl30>CXA1902-18</td>
+            <td class=xl30>ULA01239571</td>
+            <td class=xl30>2018P03<SPAN STYLE='mso-spacerun:yes'>&nbsp;&nbsp;</SPAN>T503770</td>
+            <td>[NULL]</td>
+            <td class=xl30>2018P03<SPAN STYLE='mso-spacerun:yes'>&nbsp;&nbsp;</SPAN>T512819</td>
+            <td class=xl30>A05</td>
+            <td align="right">[NULL]</td>
+        </tr>
+        <tr>
+            <td class=x129>09/30/2018 12:00:00 AM</td>
+            <td class=xl30>P03<SPAN STYLE='mso-spacerun:yes'>&nbsp;&nbsp;</SPAN></td>
+            <td class=xl30>CXA1902-18</td>
+            <td class=xl30>ULA01239464</td>
+            <td class=xl30>2018P03<SPAN STYLE='mso-spacerun:yes'>&nbsp;&nbsp;</SPAN>T503797</td>
+            <td>[NULL]</td>
+            <td class=xl30>2018P03<SPAN STYLE='mso-spacerun:yes'>&nbsp;&nbsp;</SPAN>T512821</td>
+            <td class=xl30>A05</td>
+            <td align="right">[NULL]</td>
+        </tr>
+        <tr>
+            <td class=x129>09/30/2018 12:00:00 AM</td>
+            <td class=xl30>P03<SPAN STYLE='mso-spacerun:yes'>&nbsp;&nbsp;</SPAN></td>
+            <td class=xl30>CXA1902-18</td>
+            <td class=xl30>ULA01239453</td>
+            <td class=xl30>2018P03<SPAN STYLE='mso-spacerun:yes'>&nbsp;&nbsp;</SPAN>T503853</td>
+            <td>[NULL]</td>
+            <td class=xl30>2018P03<SPAN STYLE='mso-spacerun:yes'>&nbsp;&nbsp;</SPAN>T512822</td>
+            <td class=xl30>A05</td>
+            <td align="right">[NULL]</td>
+        </tr>
+        <tr>
+            <td class=x129>09/30/2018 12:00:00 AM</td>
+            <td class=xl30>P03<SPAN STYLE='mso-spacerun:yes'>&nbsp;&nbsp;</SPAN></td>
+            <td class=xl30>CPA8805-18</td>
+            <td class=xl30>YVN60673244</td>
+            <td class=xl30>2018P03<SPAN STYLE='mso-spacerun:yes'>&nbsp;&nbsp;</SPAN>T504498</td>
+            <td>[NULL]</td>
+            <td class=xl30>2018P03<SPAN STYLE='mso-spacerun:yes'>&nbsp;&nbsp;</SPAN>T513036</td>
+            <td class=xl30>A05</td>
+            <td align="right">[NULL]</td>
+        </tr>
+        <tr>
+            <td class=x129>09/30/2018 12:00:00 AM</td>
+            <td class=xl30>P03<SPAN STYLE='mso-spacerun:yes'>&nbsp;&nbsp;</SPAN></td>
+            <td class=xl30>CPA8805-18</td>
+            <td class=xl30>YVN60673222</td>
+            <td class=xl30>2018P03<SPAN STYLE='mso-spacerun:yes'>&nbsp;&nbsp;</SPAN>T504542</td>
+            <td>[NULL]</td>
+            <td class=xl30>2018P03<SPAN STYLE='mso-spacerun:yes'>&nbsp;&nbsp;</SPAN>T513037</td>
+            <td class=xl30>A05</td>
+            <td align="right">[NULL]</td>
+        </tr>
+        <tr>
+            <td class=x129>09/30/2018 12:00:00 AM</td>
+            <td class=xl30>P03<SPAN STYLE='mso-spacerun:yes'>&nbsp;&nbsp;</SPAN></td>
+            <td class=xl30>CPA8748-18</td>
+            <td class=xl30>NTH78694954</td>
+            <td class=xl30>2018P03<SPAN STYLE='mso-spacerun:yes'>&nbsp;&nbsp;</SPAN>T504187</td>
+            <td>[NULL]</td>
+            <td class=xl30>2018P03<SPAN STYLE='mso-spacerun:yes'>&nbsp;&nbsp;</SPAN>T512648</td>
+            <td class=xl30>A05</td>
+            <td align="right">[NULL]</td>
+        </tr>
+        <tr>
+            <td class=x129>09/30/2018 12:00:00 AM</td>
+            <td class=xl30>P03<SPAN STYLE='mso-spacerun:yes'>&nbsp;&nbsp;</SPAN></td>
+            <td class=xl30>CPA8783-18</td>
+            <td class=xl30>NTH78696553</td>
+            <td class=xl30>2018P03<SPAN STYLE='mso-spacerun:yes'>&nbsp;&nbsp;</SPAN>T504002</td>
+            <td>[NULL]</td>
+            <td class=xl30>2018P03<SPAN STYLE='mso-spacerun:yes'>&nbsp;&nbsp;</SPAN>T512652</td>
+            <td class=xl30>A05</td>
+            <td align="right">[NULL]</td>
+        </tr>
+        <tr>
+            <td class=x129>09/30/2018 12:00:00 AM</td>
+            <td class=xl30>P03<SPAN STYLE='mso-spacerun:yes'>&nbsp;&nbsp;</SPAN></td>
+            <td class=xl30>CPA8804-18</td>
+            <td class=xl30>HHE60112921</td>
+            <td class=xl30>2018P03<SPAN STYLE='mso-spacerun:yes'>&nbsp;&nbsp;</SPAN>T503507</td>
+            <td>[NULL]</td>
+            <td class=xl30>2018P03<SPAN STYLE='mso-spacerun:yes'>&nbsp;&nbsp;</SPAN>T512895</td>
+            <td class=xl30>A05</td>
+            <td align="right">[NULL]</td>
+        </tr>
+        <tr>
+            <td class=x129>09/30/2018 12:00:00 AM</td>
+            <td class=xl30>P03<SPAN STYLE='mso-spacerun:yes'>&nbsp;&nbsp;</SPAN></td>
+            <td class=xl30>CPA8788-18</td>
+            <td class=xl30>SCHKG832269</td>
+            <td class=xl30>2018P03<SPAN STYLE='mso-spacerun:yes'>&nbsp;&nbsp;</SPAN>T504007</td>
+            <td>[NULL]</td>
+            <td class=xl30>2018P03<SPAN STYLE='mso-spacerun:yes'>&nbsp;&nbsp;</SPAN>T512898</td>
+            <td class=xl30>A05</td>
+            <td align="right">[NULL]</td>
+        </tr>
+        <tr>
+            <td class=x129>09/30/2018 12:00:00 AM</td>
+            <td class=xl30>P03<SPAN STYLE='mso-spacerun:yes'>&nbsp;&nbsp;</SPAN></td>
+            <td class=xl30>CPA8802-18</td>
+            <td class=xl30>J146620</td>
+            <td class=xl30>2018P03<SPAN STYLE='mso-spacerun:yes'>&nbsp;&nbsp;</SPAN>T504123</td>
+            <td>[NULL]</td>
+            <td class=xl30>2018P03<SPAN STYLE='mso-spacerun:yes'>&nbsp;&nbsp;</SPAN>T513141</td>
+            <td class=xl30>A05</td>
+            <td align="right">[NULL]</td>
+        </tr>
+        <tr>
+            <td class=x129>09/29/2018 12:00:00 AM</td>
+            <td class=xl30>P03<SPAN STYLE='mso-spacerun:yes'>&nbsp;&nbsp;</SPAN></td>
+            <td class=xl30>CPA8783-18</td>
+            <td class=xl30>605118871214</td>
+            <td class=xl30>2018P03<SPAN STYLE='mso-spacerun:yes'>&nbsp;&nbsp;</SPAN>T502419</td>
+            <td class=xl30>Sent Pending</td>
+            <td class=xl30>2018P03<SPAN STYLE='mso-spacerun:yes'>&nbsp;&nbsp;</SPAN>T511083</td>
+            <td class=xl30>A05</td>
+            <td align="right">[NULL]</td>
+        </tr>
+        <tr>
+            <td class=x129>09/30/2018 12:00:00 AM</td>
+            <td class=xl30>P03<SPAN STYLE='mso-spacerun:yes'>&nbsp;&nbsp;</SPAN></td>
+            <td class=xl30>MHA0858-18</td>
+            <td class=xl30>UTY01418944</td>
+            <td class=xl30>2018P03<SPAN STYLE='mso-spacerun:yes'>&nbsp;&nbsp;</SPAN>T504217</td>
+            <td>[NULL]</td>
+            <td class=xl30>2018P03<SPAN STYLE='mso-spacerun:yes'>&nbsp;&nbsp;</SPAN>T512927</td>
+            <td class=xl30>A05</td>
+            <td align="right">[NULL]</td>
+        </tr>
+        <tr>
+            <td class=x129>09/30/2018 12:00:00 AM</td>
+            <td class=xl30>P03<SPAN STYLE='mso-spacerun:yes'>&nbsp;&nbsp;</SPAN></td>
+            <td class=xl30>CPA8788-18</td>
+            <td class=xl30>SCHKG832363</td>
+            <td class=xl30>2018P03<SPAN STYLE='mso-spacerun:yes'>&nbsp;&nbsp;</SPAN>T504077</td>
+            <td>[NULL]</td>
+            <td class=xl30>2018P03<SPAN STYLE='mso-spacerun:yes'>&nbsp;&nbsp;</SPAN>T512936</td>
+            <td class=xl30>A05</td>
+            <td align="right">[NULL]</td>
+        </tr>
+        <tr>
+            <td class=x129>09/30/2018 12:00:00 AM</td>
+            <td class=xl30>P03<SPAN STYLE='mso-spacerun:yes'>&nbsp;&nbsp;</SPAN></td>
+            <td class=xl30>CPA8788-18</td>
+            <td class=xl30>SCHKG832335</td>
+            <td class=xl30>2018P03<SPAN STYLE='mso-spacerun:yes'>&nbsp;&nbsp;</SPAN>T504055</td>
+            <td>[NULL]</td>
+            <td class=xl30>2018P03<SPAN STYLE='mso-spacerun:yes'>&nbsp;&nbsp;</SPAN>T512938</td>
+            <td class=xl30>A05</td>
+            <td align="right">[NULL]</td>
+        </tr>
+        <tr>
+            <td class=x129>09/30/2018 12:00:00 AM</td>
+            <td class=xl30>P03<SPAN STYLE='mso-spacerun:yes'>&nbsp;&nbsp;</SPAN></td>
+            <td class=xl30>CPA8788-18</td>
+            <td class=xl30>SCHKG831263</td>
+            <td class=xl30>2018P03<SPAN STYLE='mso-spacerun:yes'>&nbsp;&nbsp;</SPAN>T504026</td>
+            <td>[NULL]</td>
+            <td class=xl30>2018P03<SPAN STYLE='mso-spacerun:yes'>&nbsp;&nbsp;</SPAN>T512940</td>
+            <td class=xl30>A05</td>
+            <td align="right">[NULL]</td>
+        </tr>
+        <tr>
+            <td class=x129>09/30/2018 12:00:00 AM</td>
+            <td class=xl30>P03<SPAN STYLE='mso-spacerun:yes'>&nbsp;&nbsp;</SPAN></td>
+            <td class=xl30>CPA8788-18</td>
+            <td class=xl30>SCHKG832323</td>
+            <td class=xl30>2018P03<SPAN STYLE='mso-spacerun:yes'>&nbsp;&nbsp;</SPAN>T504037</td>
+            <td>[NULL]</td>
+            <td class=xl30>2018P03<SPAN STYLE='mso-spacerun:yes'>&nbsp;&nbsp;</SPAN>T512943</td>
+            <td class=xl30>A05</td>
+            <td align="right">[NULL]</td>
+        </tr>
+        <tr>
+            <td class=x129>09/30/2018 12:00:00 AM</td>
+            <td class=xl30>P03<SPAN STYLE='mso-spacerun:yes'>&nbsp;&nbsp;</SPAN></td>
+            <td class=xl30>CPA8788-18</td>
+            <td class=xl30>SCHKG831264</td>
+            <td class=xl30>2018P03<SPAN STYLE='mso-spacerun:yes'>&nbsp;&nbsp;</SPAN>T504090</td>
+            <td>[NULL]</td>
+            <td class=xl30>2018P03<SPAN STYLE='mso-spacerun:yes'>&nbsp;&nbsp;</SPAN>T512945</td>
+            <td class=xl30>A05</td>
+            <td align="right">[NULL]</td>
+        </tr>
+        <tr>
+            <td class=x129>09/30/2018 12:00:00 AM</td>
+            <td class=xl30>P03<SPAN STYLE='mso-spacerun:yes'>&nbsp;&nbsp;</SPAN></td>
+            <td class=xl30>AAA3588-18</td>
+            <td class=xl30>YHKGA156641</td>
+            <td class=xl30>2018P03<SPAN STYLE='mso-spacerun:yes'>&nbsp;&nbsp;</SPAN>T504529</td>
+            <td>[NULL]</td>
+            <td class=xl30>2018P03<SPAN STYLE='mso-spacerun:yes'>&nbsp;&nbsp;</SPAN>T512988</td>
+            <td class=xl30>A05</td>
+            <td align="right">[NULL]</td>
+        </tr>
+        <tr>
+            <td class=x129>09/30/2018 12:00:00 AM</td>
+            <td class=xl30>P03<SPAN STYLE='mso-spacerun:yes'>&nbsp;&nbsp;</SPAN></td>
+            <td class=xl30>CPA8818-18</td>
+            <td class=xl30>TRI1809017</td>
+            <td class=xl30>2018P03<SPAN STYLE='mso-spacerun:yes'>&nbsp;&nbsp;</SPAN>T504203</td>
+            <td>[NULL]</td>
+            <td class=xl30>2018P03<SPAN STYLE='mso-spacerun:yes'>&nbsp;&nbsp;</SPAN>T512990</td>
+            <td class=xl30>A05</td>
+            <td align="right">[NULL]</td>
+        </tr>
+        <tr>
+            <td class=x129>09/30/2018 12:00:00 AM</td>
+            <td class=xl30>P03<SPAN STYLE='mso-spacerun:yes'>&nbsp;&nbsp;</SPAN></td>
+            <td class=xl30>CPA8814-18</td>
+            <td class=xl30>SHKGAE03091</td>
+            <td class=xl30>2018P03<SPAN STYLE='mso-spacerun:yes'>&nbsp;&nbsp;</SPAN>T504416</td>
+            <td>[NULL]</td>
+            <td class=xl30>2018P03<SPAN STYLE='mso-spacerun:yes'>&nbsp;&nbsp;</SPAN>T512998</td>
+            <td class=xl30>A05</td>
+            <td align="right">[NULL]</td>
+        </tr>
+        <tr>
+            <td class=x129>09/30/2018 12:00:00 AM</td>
+            <td class=xl30>P03<SPAN STYLE='mso-spacerun:yes'>&nbsp;&nbsp;</SPAN></td>
+            <td class=xl30>PRB3316-18</td>
+            <td class=xl30>UHK08117395</td>
+            <td class=xl30>2018P03<SPAN STYLE='mso-spacerun:yes'>&nbsp;&nbsp;</SPAN>T504425</td>
+            <td>[NULL]</td>
+            <td class=xl30>2018P03<SPAN STYLE='mso-spacerun:yes'>&nbsp;&nbsp;</SPAN>T513005</td>
+            <td class=xl30>A05</td>
+            <td align="right">[NULL]</td>
+        </tr>
+        <tr>
+            <td class=x129>09/30/2018 12:00:00 AM</td>
+            <td class=xl30>P03<SPAN STYLE='mso-spacerun:yes'>&nbsp;&nbsp;</SPAN></td>
+            <td class=xl30>CPA8780-18</td>
+            <td class=xl30>ESHKG1890087</td>
+            <td class=xl30>2018P03<SPAN STYLE='mso-spacerun:yes'>&nbsp;&nbsp;</SPAN>T504363</td>
+            <td>[NULL]</td>
+            <td class=xl30>2018P03<SPAN STYLE='mso-spacerun:yes'>&nbsp;&nbsp;</SPAN>T513007</td>
+            <td class=xl30>A05</td>
+            <td align="right">[NULL]</td>
+        </tr>
+        <tr>
+            <td class=x129>09/30/2018 12:00:00 AM</td>
+            <td class=xl30>P03<SPAN STYLE='mso-spacerun:yes'>&nbsp;&nbsp;</SPAN></td>
+            <td class=xl30>CPA8780-18</td>
+            <td class=xl30>ESHKG1890088</td>
+            <td class=xl30>2018P03<SPAN STYLE='mso-spacerun:yes'>&nbsp;&nbsp;</SPAN>T504366</td>
+            <td>[NULL]</td>
+            <td class=xl30>2018P03<SPAN STYLE='mso-spacerun:yes'>&nbsp;&nbsp;</SPAN>T513009</td>
+            <td class=xl30>A05</td>
+            <td align="right">[NULL]</td>
+        </tr>
+        <tr>
+            <td class=x129>09/29/2018 12:00:00 AM</td>
+            <td class=xl30>P03<SPAN STYLE='mso-spacerun:yes'>&nbsp;&nbsp;</SPAN></td>
+            <td class=xl30>AAA3566-18</td>
+            <td class=xl30>MY00054584</td>
+            <td class=xl30>2018P03<SPAN STYLE='mso-spacerun:yes'>&nbsp;&nbsp;</SPAN>T503138</td>
+            <td>[NULL]</td>
+            <td class=xl30>2018P03<SPAN STYLE='mso-spacerun:yes'>&nbsp;&nbsp;</SPAN>T512386</td>
+            <td class=xl30>A05</td>
+            <td align="right">[NULL]</td>
+        </tr>
+        <tr>
+            <td class=x129>09/30/2018 12:00:00 AM</td>
+            <td class=xl30>P03<SPAN STYLE='mso-spacerun:yes'>&nbsp;&nbsp;</SPAN></td>
+            <td class=xl30>CPA8805-18</td>
+            <td class=xl30>YVN60673255</td>
+            <td class=xl30>2018P03<SPAN STYLE='mso-spacerun:yes'>&nbsp;&nbsp;</SPAN>T504387</td>
+            <td>[NULL]</td>
+            <td class=xl30>2018P03<SPAN STYLE='mso-spacerun:yes'>&nbsp;&nbsp;</SPAN>T513153</td>
+            <td class=xl30>A05</td>
+            <td align="right">[NULL]</td>
+        </tr>
+        <tr>
+            <td class=x129>09/30/2018 12:00:00 AM</td>
+            <td class=xl30>P03<SPAN STYLE='mso-spacerun:yes'>&nbsp;&nbsp;</SPAN></td>
+            <td class=xl30>CPA8818-18</td>
+            <td class=xl30>DIM029058578</td>
+            <td class=xl30>2018P03<SPAN STYLE='mso-spacerun:yes'>&nbsp;&nbsp;</SPAN>T504088</td>
+            <td>[NULL]</td>
+            <td class=xl30>2018P03<SPAN STYLE='mso-spacerun:yes'>&nbsp;&nbsp;</SPAN>T512879</td>
+            <td class=xl30>A05</td>
+            <td align="right">[NULL]</td>
+        </tr>
+        <tr>
+            <td class=x129>09/30/2018 12:00:00 AM</td>
+            <td class=xl30>P03<SPAN STYLE='mso-spacerun:yes'>&nbsp;&nbsp;</SPAN></td>
+            <td class=xl30>CPA8814-18</td>
+            <td class=xl30>520082925860</td>
+            <td class=xl30>2018P03<SPAN STYLE='mso-spacerun:yes'>&nbsp;&nbsp;</SPAN>T504096</td>
+            <td>[NULL]</td>
+            <td class=xl30>2018P03<SPAN STYLE='mso-spacerun:yes'>&nbsp;&nbsp;</SPAN>T512592</td>
+            <td class=xl30>A05</td>
+            <td align="right">[NULL]</td>
+        </tr>
+        <tr>
+            <td class=x129>09/30/2018 12:00:00 AM</td>
+            <td class=xl30>P03<SPAN STYLE='mso-spacerun:yes'>&nbsp;&nbsp;</SPAN></td>
+            <td class=xl30>CPA8818-18</td>
+            <td class=xl30>605118815284</td>
+            <td class=xl30>2018P03<SPAN STYLE='mso-spacerun:yes'>&nbsp;&nbsp;</SPAN>T504094</td>
+            <td>[NULL]</td>
+            <td class=xl30>2018P03<SPAN STYLE='mso-spacerun:yes'>&nbsp;&nbsp;</SPAN>T512593</td>
+            <td class=xl30>A05</td>
+            <td align="right">[NULL]</td>
+        </tr>
+        <tr>
+            <td class=x129>09/30/2018 12:00:00 AM</td>
+            <td class=xl30>P03<SPAN STYLE='mso-spacerun:yes'>&nbsp;&nbsp;</SPAN></td>
+            <td class=xl30>CPA8818-18</td>
+            <td class=xl30>605118866115</td>
+            <td class=xl30>2018P03<SPAN STYLE='mso-spacerun:yes'>&nbsp;&nbsp;</SPAN>T504111</td>
+            <td>[NULL]</td>
+            <td class=xl30>2018P03<SPAN STYLE='mso-spacerun:yes'>&nbsp;&nbsp;</SPAN>T512595</td>
+            <td class=xl30>A05</td>
+            <td align="right">[NULL]</td>
+        </tr>
+        <tr>
+            <td class=x129>09/30/2018 12:00:00 AM</td>
+            <td class=xl30>P03<SPAN STYLE='mso-spacerun:yes'>&nbsp;&nbsp;</SPAN></td>
+            <td class=xl30>CPA8814-18</td>
+            <td class=xl30>520082924935</td>
+            <td class=xl30>2018P03<SPAN STYLE='mso-spacerun:yes'>&nbsp;&nbsp;</SPAN>T504082</td>
+            <td>[NULL]</td>
+            <td class=xl30>2018P03<SPAN STYLE='mso-spacerun:yes'>&nbsp;&nbsp;</SPAN>T512598</td>
+            <td class=xl30>A05</td>
+            <td align="right">[NULL]</td>
+        </tr>
+        <tr>
+            <td class=x129>09/30/2018 12:00:00 AM</td>
+            <td class=xl30>P03<SPAN STYLE='mso-spacerun:yes'>&nbsp;&nbsp;</SPAN></td>
+            <td class=xl30>CPA8814-18</td>
+            <td class=xl30>520082925904</td>
+            <td class=xl30>2018P03<SPAN STYLE='mso-spacerun:yes'>&nbsp;&nbsp;</SPAN>T504020</td>
+            <td>[NULL]</td>
+            <td class=xl30>2018P03<SPAN STYLE='mso-spacerun:yes'>&nbsp;&nbsp;</SPAN>T512599</td>
+            <td class=xl30>A05</td>
+            <td align="right">[NULL]</td>
+        </tr>
+        <tr>
+            <td class=x129>09/30/2018 12:00:00 AM</td>
+            <td class=xl30>P03<SPAN STYLE='mso-spacerun:yes'>&nbsp;&nbsp;</SPAN></td>
+            <td class=xl30>CPA8814-18</td>
+            <td class=xl30>520082926081</td>
+            <td class=xl30>2018P03<SPAN STYLE='mso-spacerun:yes'>&nbsp;&nbsp;</SPAN>T503930</td>
+            <td>[NULL]</td>
+            <td class=xl30>2018P03<SPAN STYLE='mso-spacerun:yes'>&nbsp;&nbsp;</SPAN>T513094</td>
+            <td class=xl30>A05</td>
+            <td align="right">[NULL]</td>
+        </tr>
+        <tr>
+            <td class=x129>09/29/2018 12:00:00 AM</td>
+            <td class=xl30>P03<SPAN STYLE='mso-spacerun:yes'>&nbsp;&nbsp;</SPAN></td>
+            <td class=xl30>CPA8748-18</td>
+            <td class=xl30>NTH78695680</td>
+            <td class=xl30>2018P03<SPAN STYLE='mso-spacerun:yes'>&nbsp;&nbsp;</SPAN>T502738</td>
+            <td class=xl30>Sent Pending</td>
+            <td class=xl30>2018P03<SPAN STYLE='mso-spacerun:yes'>&nbsp;&nbsp;</SPAN>T511200</td>
+            <td class=xl30>A05</td>
+            <td align="right">[NULL]</td>
+        </tr>
+        <tr>
+            <td class=x129>09/28/2018 12:00:00 AM</td>
+            <td class=xl30>P03<SPAN STYLE='mso-spacerun:yes'>&nbsp;&nbsp;</SPAN></td>
+            <td class=xl30>CPA8748-18</td>
+            <td class=xl30>605118862560</td>
+            <td class=xl30>2018P03<SPAN STYLE='mso-spacerun:yes'>&nbsp;&nbsp;</SPAN>T500297</td>
+            <td class=xl30>Sent Pending</td>
+            <td class=xl30>2018P03<SPAN STYLE='mso-spacerun:yes'>&nbsp;&nbsp;</SPAN>T509421</td>
+            <td class=xl30>A05</td>
+            <td align="right">[NULL]</td>
+        </tr>
+        <tr>
+            <td class=x129>09/29/2018 12:00:00 AM</td>
+            <td class=xl30>P03<SPAN STYLE='mso-spacerun:yes'>&nbsp;&nbsp;</SPAN></td>
+            <td class=xl30>AAA3567-18</td>
+            <td class=xl30>TWTPE197652</td>
+            <td class=xl30>2018P03<SPAN STYLE='mso-spacerun:yes'>&nbsp;&nbsp;</SPAN>T502600</td>
+            <td class=xl30>Sent Pending</td>
+            <td class=xl30>2018P03<SPAN STYLE='mso-spacerun:yes'>&nbsp;&nbsp;</SPAN>T511967</td>
+            <td class=xl30>A05</td>
+            <td align="right">[NULL]</td>
+        </tr>
+        <tr>
+            <td class=x129>09/30/2018 12:00:00 AM</td>
+            <td class=xl30>P03<SPAN STYLE='mso-spacerun:yes'>&nbsp;&nbsp;</SPAN></td>
+            <td class=xl30>PRB3282-18</td>
+            <td class=xl30>USI03304766</td>
+            <td class=xl30>2018P03<SPAN STYLE='mso-spacerun:yes'>&nbsp;&nbsp;</SPAN>T503875</td>
+            <td>[NULL]</td>
+            <td class=xl30>2018P03<SPAN STYLE='mso-spacerun:yes'>&nbsp;&nbsp;</SPAN>T512824</td>
+            <td class=xl30>A05</td>
+            <td align="right">[NULL]</td>
+        </tr>
+        <tr>
+            <td class=x129>09/30/2018 12:00:00 AM</td>
+            <td class=xl30>P03<SPAN STYLE='mso-spacerun:yes'>&nbsp;&nbsp;</SPAN></td>
+            <td class=xl30>SQA1088-18</td>
+            <td class=xl30>UPE00701831</td>
+            <td class=xl30>2018P03<SPAN STYLE='mso-spacerun:yes'>&nbsp;&nbsp;</SPAN>T504067</td>
+            <td>[NULL]</td>
+            <td class=xl30>2018P03<SPAN STYLE='mso-spacerun:yes'>&nbsp;&nbsp;</SPAN>T512836</td>
+            <td class=xl30>A05</td>
+            <td align="right">[NULL]</td>
+        </tr>
+        <tr>
+            <td class=x129>10/01/2018 12:00:00 AM</td>
+            <td class=xl30>P03<SPAN STYLE='mso-spacerun:yes'>&nbsp;&nbsp;</SPAN></td>
+            <td class=xl30>CPA8794-18</td>
+            <td class=xl30>67530472234</td>
+            <td class=xl30>2018P03<SPAN STYLE='mso-spacerun:yes'>&nbsp;&nbsp;</SPAN>T504631</td>
+            <td>[NULL]</td>
+            <td class=xl30>2018P03<SPAN STYLE='mso-spacerun:yes'>&nbsp;&nbsp;</SPAN>T513518</td>
+            <td class=xl30>A05</td>
+            <td align="right">[NULL]</td>
+        </tr>
+        <tr>
+            <td class=x129>09/29/2018 12:00:00 AM</td>
+            <td class=xl30>P03<SPAN STYLE='mso-spacerun:yes'>&nbsp;&nbsp;</SPAN></td>
+            <td class=xl30>CPA8764-18</td>
+            <td class=xl30>NEV62204785</td>
+            <td class=xl30>2018P03<SPAN STYLE='mso-spacerun:yes'>&nbsp;&nbsp;</SPAN>T502662</td>
+            <td class=xl30>Confirmed Ownership</td>
+            <td class=xl30>2018P03<SPAN STYLE='mso-spacerun:yes'>&nbsp;&nbsp;</SPAN>T511311</td>
+            <td class=xl30>A05</td>
+            <td align="right">[NULL]</td>
+        </tr>
+        <tr>
+            <td class=x129>09/29/2018 12:00:00 AM</td>
+            <td class=xl30>P03<SPAN STYLE='mso-spacerun:yes'>&nbsp;&nbsp;</SPAN></td>
+            <td class=xl30>CPA8783-18</td>
+            <td class=xl30>605118862582</td>
+            <td class=xl30>2018P03<SPAN STYLE='mso-spacerun:yes'>&nbsp;&nbsp;</SPAN>T502456</td>
+            <td class=xl30>Sent Pending</td>
+            <td class=xl30>2018P03<SPAN STYLE='mso-spacerun:yes'>&nbsp;&nbsp;</SPAN>T511088</td>
+            <td class=xl30>A05</td>
+            <td align="right">[NULL]</td>
+        </tr>
+        <tr>
+            <td class=x129>09/29/2018 12:00:00 AM</td>
+            <td class=xl30>P03<SPAN STYLE='mso-spacerun:yes'>&nbsp;&nbsp;</SPAN></td>
+            <td class=xl30>CPA8783-18</td>
+            <td class=xl30>605118871144</td>
+            <td class=xl30>2018P03<SPAN STYLE='mso-spacerun:yes'>&nbsp;&nbsp;</SPAN>T502461</td>
+            <td class=xl30>Sent Pending</td>
+            <td class=xl30>2018P03<SPAN STYLE='mso-spacerun:yes'>&nbsp;&nbsp;</SPAN>T511089</td>
+            <td class=xl30>A05</td>
+            <td align="right">[NULL]</td>
+        </tr>
+        <tr>
+            <td class=x129>09/30/2018 12:00:00 AM</td>
+            <td class=xl30>P03<SPAN STYLE='mso-spacerun:yes'>&nbsp;&nbsp;</SPAN></td>
+            <td class=xl30>CPA8814-18</td>
+            <td class=xl30>520082928332</td>
+            <td class=xl30>2018P03<SPAN STYLE='mso-spacerun:yes'>&nbsp;&nbsp;</SPAN>T504001</td>
+            <td>[NULL]</td>
+            <td class=xl30>2018P03<SPAN STYLE='mso-spacerun:yes'>&nbsp;&nbsp;</SPAN>T512582</td>
+            <td class=xl30>A05</td>
+            <td align="right">[NULL]</td>
+        </tr>
+        <tr>
+            <td class=x129>09/30/2018 12:00:00 AM</td>
+            <td class=xl30>P03<SPAN STYLE='mso-spacerun:yes'>&nbsp;&nbsp;</SPAN></td>
+            <td class=xl30>CPA8814-18</td>
+            <td class=xl30>520082926976</td>
+            <td class=xl30>2018P03<SPAN STYLE='mso-spacerun:yes'>&nbsp;&nbsp;</SPAN>T504012</td>
+            <td>[NULL]</td>
+            <td class=xl30>2018P03<SPAN STYLE='mso-spacerun:yes'>&nbsp;&nbsp;</SPAN>T512583</td>
+            <td class=xl30>A05</td>
+            <td align="right">[NULL]</td>
+        </tr>
+        <tr>
+            <td class=x129>09/30/2018 12:00:00 AM</td>
+            <td class=xl30>P03<SPAN STYLE='mso-spacerun:yes'>&nbsp;&nbsp;</SPAN></td>
+            <td class=xl30>CPA8814-18</td>
+            <td class=xl30>520082926991</td>
+            <td class=xl30>2018P03<SPAN STYLE='mso-spacerun:yes'>&nbsp;&nbsp;</SPAN>T504016</td>
+            <td>[NULL]</td>
+            <td class=xl30>2018P03<SPAN STYLE='mso-spacerun:yes'>&nbsp;&nbsp;</SPAN>T512584</td>
+            <td class=xl30>A05</td>
+            <td align="right">[NULL]</td>
+        </tr>
+        <tr>
+            <td class=x129>09/30/2018 12:00:00 AM</td>
+            <td class=xl30>P03<SPAN STYLE='mso-spacerun:yes'>&nbsp;&nbsp;</SPAN></td>
+            <td class=xl30>CPA8818-18</td>
+            <td class=xl30>605118871741</td>
+            <td class=xl30>2018P03<SPAN STYLE='mso-spacerun:yes'>&nbsp;&nbsp;</SPAN>T504101</td>
+            <td>[NULL]</td>
+            <td class=xl30>2018P03<SPAN STYLE='mso-spacerun:yes'>&nbsp;&nbsp;</SPAN>T512588</td>
+            <td class=xl30>A05</td>
+            <td align="right">[NULL]</td>
+        </tr>
+        <tr>
+            <td class=x129>09/30/2018 12:00:00 AM</td>
+            <td class=xl30>P03<SPAN STYLE='mso-spacerun:yes'>&nbsp;&nbsp;</SPAN></td>
+            <td class=xl30>CPA8805-18</td>
+            <td class=xl30>NEV71720880</td>
+            <td class=xl30>2018P03<SPAN STYLE='mso-spacerun:yes'>&nbsp;&nbsp;</SPAN>T503854</td>
+            <td>[NULL]</td>
+            <td class=xl30>2018P03<SPAN STYLE='mso-spacerun:yes'>&nbsp;&nbsp;</SPAN>T512664</td>
+            <td class=xl30>A05</td>
+            <td align="right">[NULL]</td>
+        </tr>
+        <tr>
+            <td class=x129>09/30/2018 12:00:00 AM</td>
+            <td class=xl30>P03<SPAN STYLE='mso-spacerun:yes'>&nbsp;&nbsp;</SPAN></td>
+            <td class=xl30>AAA3564-18</td>
+            <td class=xl30>NEV62205570</td>
+            <td class=xl30>2018P03<SPAN STYLE='mso-spacerun:yes'>&nbsp;&nbsp;</SPAN>T503983</td>
+            <td>[NULL]</td>
+            <td class=xl30>2018P03<SPAN STYLE='mso-spacerun:yes'>&nbsp;&nbsp;</SPAN>T512673</td>
+            <td class=xl30>A05</td>
+            <td align="right">[NULL]</td>
+        </tr>
+        <tr>
+            <td class=x129>09/30/2018 12:00:00 AM</td>
+            <td class=xl30>P03<SPAN STYLE='mso-spacerun:yes'>&nbsp;&nbsp;</SPAN></td>
+            <td class=xl30>CPA8814-18</td>
+            <td class=xl30>520082924946</td>
+            <td class=xl30>2018P03<SPAN STYLE='mso-spacerun:yes'>&nbsp;&nbsp;</SPAN>T504244</td>
+            <td>[NULL]</td>
+            <td class=xl30>2018P03<SPAN STYLE='mso-spacerun:yes'>&nbsp;&nbsp;</SPAN>T512675</td>
+            <td class=xl30>A05</td>
+            <td align="right">[NULL]</td>
+        </tr>
+    </table>
+</body>
+</html>

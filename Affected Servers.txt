@@ -1,0 +1,12 @@
+Below are the affected servers due to down time in Cargohaus:
+
+Affected Servers		IP Addresses
+
+smtpshield,Sophos,imsva		72.21.0.11
+IMSVA				210.14.17.197:8445
+Ekonek_Mail			10.1.1.12	
+IMA DFS				172.21.0.51
+DMZ-FTP				172.21.0.244
+	
+				172.21.0.56	
+				172.21.0.111
